@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ニブンノイチ",
+  "base_artist": "BACK-ON",
+  "createdAt": "2026-01-05T20:49:12.080149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ニブンノイチ",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/01_ニブンノイチ_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ニブンノイチ",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/02_ニブンノイチ_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ニブンノイチ",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/03_ニブンノイチ_BACK-ON.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ニブンノイチ - (FLIP SOUND ver.)",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/04_ニブンノイチ_-_(FLIP_SOUND_ver.)_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ニブンノイチ",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/05_ニブンノイチ_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ニブンノイチ [アニメversion]",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/06_ニブンノイチ_[アニメversion]_BACK-ON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニブンノイチ",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_ニブンノイチ_BACK-ON.txt"
+    }
+  ]
+}
